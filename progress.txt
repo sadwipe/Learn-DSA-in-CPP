@@ -1,7 +1,7 @@
 Asymptotic Analysis of Algorithms:
     Asymptotic Analysis of Algorithm [X]
     Asymptotic Notation
-    Best, Average and Worst Cases
+    Best, Average and Worst Cases [X]
     Analysis of Loops
     Analysis of Recursion
 
