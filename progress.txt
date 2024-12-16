@@ -1,13 +1,13 @@
 Asymptotic Analysis of Algorithms:
     Asymptotic Analysis of Algorithm [X]
-    Asymptotic Notation
+    Asymptotic Notation [X]
     Best, Average and Worst Cases [X]
-    Analysis of Loops
-    Analysis of Recursion
+    Analysis of Loops [X]
+    Analysis of Recursion [X]
 
 
 Bit Manipulation:
-    Extract bits
+    Extract bits [X]
     Setting bits
     Clearing bits
     Toggling bits
