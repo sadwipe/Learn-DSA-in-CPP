@@ -15,10 +15,10 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 
 ## Bit Manipulation
 - [x] Extract bits
-- [ ] Setting bits
-- [ ] Clearing bits
-- [ ] Toggling bits
-- [ ] Counting Set bits
+- [x] Setting bits
+- [x] Clearing bits
+- [x] Toggling bits
+- [x] Counting Set bits
 
 ## Array
 - [ ] 1D Array
