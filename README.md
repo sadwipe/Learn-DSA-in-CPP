@@ -25,8 +25,8 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 - [x] Multidimensional Array
 
 ## Matrix
-- [ ] Transpose of Matrix
-- [ ] Matrix Addition
+- [x] Transpose of Matrix
+- [x] Matrix Addition
 - [ ] Matrix Multiplication
 - [ ] Matrix Rotation
 
