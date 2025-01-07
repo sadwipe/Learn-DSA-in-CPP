@@ -21,8 +21,8 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 - [x] Counting Set bits
 
 ## Array
-- [ ] 1D Array
-- [ ] Multidimensional Array
+- [x] 1D Array
+- [x] Multidimensional Array
 
 ## Matrix
 - [ ] Transpose of Matrix
