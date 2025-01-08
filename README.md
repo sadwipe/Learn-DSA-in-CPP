@@ -27,8 +27,8 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 ## Matrix
 - [x] Transpose of Matrix
 - [x] Matrix Addition
-- [ ] Matrix Multiplication
-- [ ] Matrix Rotation
+- [x] Matrix Multiplication
+- [x] Matrix Rotation
 
 ## Strings
 - [ ] Strings in C
