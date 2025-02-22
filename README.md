@@ -1,10 +1,10 @@
-This is a repository where I will add my progress regarding learning DSA in C, guided by geeksforgeeks course.
+This is a repository where I will add my progress regarding learning DSA in C++, guided by geeksforgeeks course.
 The role of the progress.txt file is to update the progress acording to the webpage structure.
 
-https://www.geeksforgeeks.org/learn-dsa-in-c/
+https://www.geeksforgeeks.org/learn-dsa-in-cpp/
 
 
-# Learning DSA in C
+# Learning DSA in C++
 
 ## Asymptotic Analysis of Algorithms
 - [x] Asymptotic Analysis of Algorithm
@@ -31,27 +31,27 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 - [x] Matrix Rotation
 
 ## Strings
-- [ ] Strings in C
+- [x] Strings in C++
 
 ## Pointers
-- [ ] Pointers in C
+- [x] Pointers in C++
 
 ## Dynamic Memory Allocation
-- [ ] Dynamic Memory Allocation
+- [x] Dynamic Memory Allocation
 
 ## Linked List
-- [ ] Linked Lists
-- [ ] Singly Linked
-- [ ] Doubly Linked
-- [ ] Circular Linked List
+- [x] Linked Lists
+- [x] Singly Linked
+- [x] Doubly Linked
+- [x] Circular Linked List
 
 ## Stack
-- [ ] Stack in C
+- [ ] Stack in C++
 - [ ] Stack Implementation Using Arrays
 - [ ] Stack Implementation Using Linked Lists
 
 ## Queue
-- [ ] Queue in C
+- [ ] Queue in C++
 - [ ] Queue Implementation Using Arrays
 - [ ] Queue Implementation Using Linked Lists
 - [ ] Circular Queue
@@ -113,7 +113,7 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
     - [ ] K-D Tree
 
 ## Heap
-- [ ] Heap in C
+- [ ] Heap in C++
 - [ ] Binary Heap
     - [ ] Min Heap
     - [ ] Max Heap
@@ -122,7 +122,7 @@ https://www.geeksforgeeks.org/learn-dsa-in-c/
 - [ ] Fibonacci Heap
 
 ## Graph
-- [ ] Graph in C
+- [ ] Graph in C++
 - [ ] Classification of Graphs
     - [ ] Directed Graph
     - [ ] Undirected Graph
