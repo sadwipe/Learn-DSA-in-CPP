@@ -13,11 +13,10 @@ struct Node {
 };
 
 class SingleLinkedList {
-public:
-	// head of the SLL
 	Node* head;
 	int length;
 
+public:
 	SingleLinkedList() {
 		this->head = NULL;
 		this->length = 0;
@@ -43,7 +42,7 @@ public:
 		}
 		currentNode->next = node;
 	}
-	
+
 	void insertAtPosition(int position, int value) {
 		if (position < 1 || position > length + 1) {
 			cout << "The position is higher than the length of the Linked List." << endl;
@@ -104,16 +103,16 @@ public:
 			cout << "The position is higher than the length of the Linked List." << endl;
 			return;
 		}
-		
+
 		this->length--;
-		
+
 		if (position == 1) {
 			Node* temp = this->head;
 			this->head = this->head->next;
 			delete temp;
 			return;
 		}
-		
+
 		int currentPosition = 1;
 		Node* currentNode = this->head;
 		while (currentPosition < position - 1) {
@@ -143,33 +142,34 @@ public:
 int main() {
 	SingleLinkedList list1;
 
-	// Insert elements at the end
+	cout << "Insert 5 at the beginning" << endl;
+	list1.insertAtBeginning(5);
+	list1.display();
+	cout << endl << endl;
+
+	cout << "Insert 10 and 20 at the end" << endl;
 	list1.insertAtEnd(10);
 	list1.insertAtEnd(20);
+	list1.display();
+	cout << endl << endl;
 
-	// Insert element at the beginning
-	list1.insertAtBeginning(5);
-
-	// Insert element at a specific position
+	cout << "Insert 15 at position 3" << endl;
 	list1.insertAtPosition(3, 15);
-
-	cout << "Linked list after insertions: ";
 	list1.display();
+	cout << endl << endl;
 
-	// Delete element from the beginning
+	cout << "Delete element from beginning" << endl;
 	list1.deleteFromBeginning();
-	cout << "\nLinked list after deleting from beginning: ";
 	list1.display();
+	cout << endl << endl;
 
-	// Delete element from the end
+	cout << "Delete element from end" << endl;
 	list1.deleteFromEnd();
-	cout << "\nLinked list after deleting from end: ";
 	list1.display();
+	cout << endl << endl;
 
-	// Delete element from a specific position
+	cout << "Delete element from position 2" << endl;
 	list1.deleteFromPosition(2);
-	cout << "\nLinked list after deleting from position 2: ";
 	list1.display();
-
-	return 0;
+	cout << endl;
 }
