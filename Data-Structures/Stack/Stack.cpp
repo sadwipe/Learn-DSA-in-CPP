@@ -137,4 +137,3 @@ int main() {
     string isEmpty2 = stack.isEmpty() == 0 ? "false" : "true";
     cout << "Testing if stack is empty: " << isEmpty2 << endl;
 }
-
