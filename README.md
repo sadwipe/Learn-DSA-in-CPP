@@ -47,13 +47,13 @@ https://www.geeksforgeeks.org/learn-dsa-in-cpp/
 
 ## Stack
 - [x] Stack in C++
-- [ ] Stack Implementation Using Arrays
+- [x] Stack Implementation Using Arrays
 - [x] Stack Implementation Using Linked Lists
 
 ## Queue
-- [ ] Queue in C++
-- [ ] Queue Implementation Using Arrays
-- [ ] Queue Implementation Using Linked Lists
+- [x] Queue in C++
+- [x] Queue Implementation Using Arrays
+- [x] Queue Implementation Using Linked Lists
 - [ ] Circular Queue
 - [ ] Double-Ended Queue (Deque)
 
