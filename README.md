@@ -58,7 +58,7 @@ https://www.geeksforgeeks.org/learn-dsa-in-cpp/
 - [ ] Double-Ended Queue (Deque)
 
 ## Divide and Conquer Algorithms
-- [ ] Tower of Hanoi
+- [x] Tower of Hanoi
 - [ ] Convex Hull
 - [ ] Closest Pair of Points
 - [ ] Karatsuba Algorithm for Fast Multiplication
